@@ -1,14 +1,14 @@
 //********************************************************************* 
 // File name:	 RectangleExample.cpp
-// Author:		 Computer Science, Pacific University
+// Author:		 CS, Pacific University
 // Date:			 2/14/2018
 // Class:			 CS 250
 // Assignment: Rational Lab
 // Purpose:		 Driver used to test class Rational
 //*********************************************************************
 
-#include "Rectangle.h"
 #include <iostream>
+#include "Rectangle.h"
 
 using namespace std;
 /**********************************************************************

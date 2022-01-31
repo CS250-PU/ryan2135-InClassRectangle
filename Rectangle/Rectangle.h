@@ -1,6 +1,6 @@
 //********************************************************************* 
 // File name:	 Rectangle.h
-// Author:		 Computer Science, Pacific University
+// Author:		 CS, Pacific University
 // Date:			 
 // Class:			 CS 250
 // Assignment: Rectangle Lab

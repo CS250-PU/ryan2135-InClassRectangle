@@ -1,6 +1,6 @@
 //********************************************************************* 
 // File name:	 Rectangle.cpp
-// Author:		 Computer Science, Pacific University
+// Author:		 CS, Pacific University
 // Date:			 
 // Class:			 CS 250
 // Assignment: Rectangle Lab
@@ -32,8 +32,7 @@ Parameters:		width - the width used to initialize the rectangle
 
 Returned:			none
 **********************************************************************/
-//void setWidth (double width)
-//{
+//void setWidth (double width) {
 //
 //}
 
@@ -61,8 +60,7 @@ Parameters:		none
 Returned:			double - the width
 **********************************************************************/
 
-//double getWidth () const
-//{
+//double getWidth () const {
 //
 //}
 
